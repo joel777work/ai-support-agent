@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Local databases
+data/*.db
+
+# Local vector database
+data/vector_db/
+
+# Old local/sample data
+data/customers.json
+
+# Test/tool caches
+.pytest_cache/
+
+# VS Code local settings
+.vscode/
+
+# Logs
+*.log

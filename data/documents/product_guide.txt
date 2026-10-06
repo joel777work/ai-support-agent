@@ -1,0 +1,10 @@
+Aura Smart Hub - Official Product Guide
+
+Welcome to your new Aura Smart Hub. Follow these steps for initial setup:
+1. Physical Setup: Connect the included power adapter to the wall outlet and plug the USB-C cable into the back of the Hub.
+2. Network Connection: Download the Aura Home app on your mobile device. Turn on your phone's Bluetooth, open the app, and select "Add New Device". Note: The Hub strictly requires a 2.4GHz Wi-Fi network; it will not connect to 5GHz networks.
+3. LED Status Indicators:
+   - Solid Blue: Device is powered on and connected to Wi-Fi.
+   - Pulsing Blue: Device is in pairing mode and waiting for setup.
+   - Solid Red: No internet connection detected.
+   - Blinking Red: System error or firmware update in progress. Do not unplug.

@@ -1,0 +1,10 @@
+Aura Smart Hub - Troubleshooting & FAQ
+
+Issue: Device will not connect to Wi-Fi during setup.
+Solution: Ensure your router is actively broadcasting a 2.4GHz signal. The Aura Hub cannot see 5GHz-only networks. Move the Hub within 10 feet of the router during initial setup to avoid signal dead zones.
+
+Issue: The LED indicator is blinking red continuously.
+Solution: A continuous blinking red light indicates a localized system crash. Perform a factory reset by inserting a paperclip into the reset pinhole on the bottom of the device. Hold for 15 seconds until the light turns solid green.
+
+Issue: Voice commands are not registering.
+Solution: Ensure the physical microphone mute switch on the left side of the Hub is set to the 'unlocked' position. If the issue persists, clear the cache in the Aura Home app and reboot the Hub by unplugging the power for 30 seconds.
