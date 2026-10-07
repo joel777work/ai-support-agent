@@ -1,1 +1,5 @@
 sentence-transformers
+chromadb
+fastapi
+uvicorn
+pydantic
